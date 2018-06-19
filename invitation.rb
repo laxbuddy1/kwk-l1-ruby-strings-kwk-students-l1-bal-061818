@@ -1,3 +1,8 @@
-# Code your prompts here!
-
-# Try starting out with puts'ing a string.
+print
+guest_name="Hermione"
+puts
+party_name="The Best Halloween Party Ever"
+date="October 31"
+time="6pm"
+print
+host_name="Harry Potter"
